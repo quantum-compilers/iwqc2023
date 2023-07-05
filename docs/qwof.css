@@ -85,6 +85,23 @@ TD {
 	margin: 0;
 }
 
+TD.schedule-time {
+	width: 5em;
+	color: gray;
+	text-align: center;
+}
+
+TD.schedule-talk {
+	width: auto;
+}
+
+TD.schedule-break {
+	width: auto;
+	color: gray;
+	background-color: #fefec4;
+	margin: 0.5pt;
+}
+
 .iwqc-content TR.big-header-row TH {
 	background-color: #000000;
 	color: #ffffff;

@@ -93,6 +93,8 @@ TD.schedule-time {
 
 TD.schedule-talk {
 	width: auto;
+	padding: 2px;
+	line-height: 135%;
 }
 
 TD.schedule-break {
